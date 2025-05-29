@@ -1,0 +1,5 @@
+terraform-modules/terraform.tfvars
+terraform-multi-cloud/terraform.tfvars
+terraform-multi-region/terraform.tfvars
+terraform-provisioners/terraform.tfvars
+aws-infra-with-terraform/terraform.tfvars
